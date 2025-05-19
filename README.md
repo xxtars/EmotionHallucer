@@ -3,10 +3,10 @@
 ## 📰 News
 
 - **[2025-05]**: [Project page](https://github.com/emo-pupu/EmotionHallucer) released.
+- **[2025-05]**: [Paper](https://arxiv.org/abs/2505.11405) released.
 
 ## 🔧 TODO
 
-- Paper release (coming soon).
 - Benchmark data release (in progress).
 
 ## ✏️ Abstract
