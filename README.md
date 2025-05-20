@@ -56,7 +56,7 @@ As a byproduct, these findings inspire us to propose the *PEP-MEK* framework, wh
 ### All Modalities
 ![result_all](./assets/result_all.jpg)
 
-### With Audio Modality
+### Without Audio Modality
 ![modelsize_perception_woa](./assets/modelsize_perception_woa.png)
 
 ### Emotion Knowledge
